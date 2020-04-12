@@ -17,7 +17,7 @@ class MyMathTest {
 	
 	@AfterAll
 	public static void after() {
-		System.out.println("AFTER ALL");
+		System.out.println("AFTER ALL  ");
 	}
 	
 	@AfterClass
